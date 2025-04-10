@@ -17,8 +17,9 @@ git clone <repository-link>
 cd <repository-directory> 
 ```
 ⚪ Install the requirements:
-
+```
 pip install -r requirements.txt
+```
 
 
 The code is divided in their respective folders.
