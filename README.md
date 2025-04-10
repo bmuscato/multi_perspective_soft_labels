@@ -12,6 +12,7 @@ Prior studies show that adopting the annotation diversity shaped by different ba
 
 ### Setup instructions
 ⚪ Clone the repository:
+```bash
 git clone <repository-link>
 cd <repository-directory>
 
