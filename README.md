@@ -1,6 +1,6 @@
 # multi_perspective_soft_labels
 
-**Embracing Diversity: A Multi-Perspective Approach with Soft Labels**
+***Embracing Diversity: A Multi-Perspective Approach with Soft Labels***
 
 This is the official repo for Embracing Diversity: A Multi-Perspective Approach with Soft Labels @HHAI 2025.
 
